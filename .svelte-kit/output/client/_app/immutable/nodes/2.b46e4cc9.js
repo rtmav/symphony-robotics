@@ -1,0 +1,1 @@
+import{S as o,i as r,s as c,k as l,l as h,m,h as n,n as d,b as p,H as a}from"../chunks/index.6dba6488.js";function u(i){let e;return{c(){e=l("div"),this.h()},l(t){e=h(t,"DIV",{class:!0});var s=m(e);s.forEach(n),this.h()},h(){d(e,"class","bg-white")},m(t,s){p(t,e,s)},p:a,i:a,o:a,d(t){t&&n(e)}}}class _ extends o{constructor(e){super(),r(this,e,null,u,c,{})}}export{_ as component};
