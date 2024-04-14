@@ -9,6 +9,7 @@
             <div class="text-xl text-serif lg:px-52 lg:mt-0 mt-3">
                 <h1>For more information, contact</h1>
                 <a href= "mailto: info@symphonyrobotics.health" class="link"> info@symphonyrobotics.health</a>
+                <h1>This product is not FDA cleared for clinical use.</h1>
             </div>
         </div>
     </div>
